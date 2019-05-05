@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "THe Best Stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Wassap Best Stream",
+      "id": 2
+    },
+    {
+      "title": "4th Stream edited",
+      "description": "oh yeah!!",
+      "id": 4
+    },
+    {
+      "title": "5th stream edited",
+      "description": "5th baby",
+      "id": 5
+    }
+  ]
+}
